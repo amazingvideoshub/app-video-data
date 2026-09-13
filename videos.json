@@ -5,6 +5,17 @@
   "videos": [
 
      {
+      "id": "video-004",
+      "title": "Full Dekho Enjoy",
+      "thumbnail": "https://amazingvideoshub.github.io/images/full.jpg",
+      "video_url": "https://cdn.kamareels2.com/6000/6963/6963.mp4",
+      "slug": "test-video-4",
+      "type": "video",
+      "duration": "01:00",
+      "active": true
+    },
+    
+    {
       "id": "video-003",
       "title": "Full Shocking",
       "thumbnail": "https://amazingvideoshub.github.io/images/1.jpg",

@@ -3,9 +3,21 @@
   "version": "1.0",
   "updated_at": "2026-09-13T14:30:00+05:30",
   "videos": [
+
+     {
+      "id": "video-003",
+      "title": "Full Shocking",
+      "thumbnail": "https://amazingvideoshub.github.io/images/1.jpg",
+      "video_url": "https://kamareels2.com/get_file/0/EVkvf9vbweqsRl_849vy1ToNgVyYHOeF3Yg9-k0rchlctl-aU4xUeANh-ZM444DtlJrJg6XpuVq__fAiXahCnUBoBoodZPaKdkQnqF6XqijunNENj-YJ5VIgwg.mp4/?v-acctoken=OTczfDF8MHw0YWE1ZmU3Y2Q2NDA4OGVjNmYwNGE3N2IzN2RhNzJkYwd3d947a2a3135469&rnd=1789300760752",
+      "slug": "test-video-3",
+      "type": "video",
+      "duration": "03:00",
+      "active": true
+    },
+    
     {
       "id": "video-001",
-      "title": "Test Video 1",
+      "title": "Desig Maza",
       "thumbnail": "https://amazingvideoshub.github.io/images/image-1.jpeg",
       "video_url": "https://www.desitales2.com/videos/get_file/2/a547adbd251d537d3c1ccf6dc1fcd4e6/3000/3665/3665.mp4/?v-acctoken=NTIzfDF8MHw1YWQxMzMzNGM5YjYxOTFkYmQ4YjI2YzlkN2IyY2Q1OA4511f7417c0cb934&rnd=1789297347892",
       "slug": "test-video-1",
@@ -15,7 +27,7 @@
     },
     {
       "id": "video-002",
-      "title": "Desi Maja",
+      "title": "Smoking karte hue girlfriend",
       "thumbnail": "https://amazingvideoshub.github.io/images/1.png",
       "video_url": "https://kamareels2.com/get_file/0/agbOyPOoLMCH4_pYvlXa5ye9Ud9mZLNGRGeUulHpPV2Tajwj6STN6fAaiI4IVrgIVS11-DxhaOn-1TDvYalLoAVzdIx5KU6VgZvB247XHr3zrB8xV6GF19o5pA.mp4/?v-acctoken=NjI5fDF8MHw3MmJlYTRkYTRmYTJiODEzMmY3Y2U1N2I0OWM5NzI5NA0c47fa03b62284f9&rnd=1789300160542",
       "slug": "test-video-2",
